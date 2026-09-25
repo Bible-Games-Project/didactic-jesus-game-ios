@@ -1,12 +1,17 @@
 {
-    "name": "rmmz-game",
-    "main": "index.html",
-    "chromium-args": "--force-color-profile=srgb",
-    "window": {
-        "title": "DIDACTIC JESUS GAME",
-        "width": 1280,
-        "height": 720,
-        "position": "center",
-        "icon": "icon/icon.png"
-    }
+  "name": "didactic-jesus-game-ios",
+  "version": "1.1.0",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build.mjs"
+  },
+  "main": "index.html",
+  "chromium-args": "--force-color-profile=srgb",
+  "window": {
+    "title": "DIDACTIC JESUS GAME",
+    "width": 1280,
+    "height": 720,
+    "position": "center",
+    "icon": "icon/icon.png"
+  }
 }
