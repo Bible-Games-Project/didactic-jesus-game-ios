@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Didactic Jesus Game (iOS)</string>
+    <string name="title_activity_main">Didactic Jesus Game (iOS)</string>
+    <string name="package_name">com.biblegamesproject.didacticjesusgame.pro</string>
+    <string name="custom_url_scheme">com.biblegamesproject.didacticjesusgame.pro</string>
+</resources>
