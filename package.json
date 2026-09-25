@@ -13,5 +13,8 @@
     "height": 720,
     "position": "center",
     "icon": "icon/icon.png"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
   }
 }
